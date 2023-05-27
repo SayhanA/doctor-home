@@ -1,0 +1,37 @@
+[
+  {
+    "name": "John Smith",
+    "specialty": "Cardiology",
+    "rating": 4.5,
+    "review": "Dr. Johnson is an exceptional cardiologist. He listened to all my concerns and provided clear explanations. The treatment he prescribed worked effectively, and I'm grateful for his expertise.",
+    "image": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80"
+  },
+  {
+    "name": "Emily Davis",
+    "specialty": "Dermatology",
+    "rating": 5.0,
+    "review": "Dr. Rodriguez is the best dermatologist I've ever visited. Her diagnosis was accurate, and the treatment she recommended improved my skin condition significantly. I highly recommend her to anyone seeking a dermatologist.",
+    "image": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dXNlcnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "name": "Michael Thompson",
+    "specialty": "Orthopedics",
+    "rating": 3.0,
+    "review": "Dr. Anderson is knowledgeable in his field, but the waiting times at his clinic are excessively long. While the treatment was effective, the overall experience could be improved with better scheduling and organization.",
+    "image": "https://images.unsplash.com/photo-1527980965255-d3b416303d12?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDR8fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "name": "Sarah Adams",
+    "specialty": "Pediatrics",
+    "rating": 4.8,
+    "review": "Dr. Wilson is a caring and compassionate pediatrician. She's excellent with children, and her advice has always been valuable. My kids feel comfortable during their visits, and I trust her expertise completely.",
+    "image": "https://images.unsplash.com/photo-1628157588553-5eeea00af15c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDEwfHx8ZW58MHx8fHx8&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "name": "David Turner",
+    "specialty": "Gynecology",
+    "rating": 4.2,
+    "review": "Dr. Ramirez is a highly skilled gynecologist. She took the time to address all my concerns and made me feel at ease. However, the clinic's administrative staff could be more friendly and efficient.",
+    "image": "https://images.unsplash.com/photo-1521132293557-5b908a59d1e1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE1fHx8ZW58MHx8fHx8&auto=format&fit=crop&w=500&q=60"
+  }
+]
